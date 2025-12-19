@@ -1,5 +1,8 @@
 # 🚀 Ventura IPO Explorer  
 
+🎥 **Explanation Video:**  
+https://drive.google.com/file/d/1kHrLZnLH_a820gae6S7mN11PReQMTRcL/view?usp=sharing&t=25  
+
 ### 🔗 Live Demo  
 https://ventura-assignment-1.onrender.com
 
@@ -28,5 +31,3 @@ The **Ventura IPO Explorer** is a full-stack MERN application that allows users 
 - REST API endpoints  
   - `GET /ipos`
   - `GET /ipos/:id`
-
-

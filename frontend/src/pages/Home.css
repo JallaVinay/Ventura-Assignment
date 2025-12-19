@@ -2,7 +2,16 @@
   padding: 30px;
   background: linear-gradient(135deg, #eef2ff, #f7faff);
   min-height: 100vh;
+
+
 }
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 120px;
+}
+
 
 .ipo-table {
   width: 100%;

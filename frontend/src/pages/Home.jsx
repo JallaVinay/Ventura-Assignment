@@ -6,7 +6,7 @@ function Home() {
   const [ipos, setIpos] = useState([])
 
   useEffect(() => {
-    fetch("http://localhost:3000/ipos")
+    fetch("https://ventura-assignment-8vzg.onrender.com/ipos")
       .then(res => res.json())
       .then(data => setIpos(data))
   }, [])

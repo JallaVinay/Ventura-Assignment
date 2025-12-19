@@ -15,7 +15,7 @@ function IpoDetails() {
   
 
   useEffect(() => {
-    fetch(`hhttps://ventura-assignment-8vzg.onrender.com/ipos/${id}`)
+    fetch(`https://ventura-assignment-8vzg.onrender.com/ipos/${id}`)
       .then(res => res.json())
       .then(data => {
         console.log("Fetched IPO:", data)
